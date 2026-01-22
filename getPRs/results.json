@@ -1,0 +1,54 @@
+{
+  "ProcessedAt": "2025-10-13T03:01:00.0172605Z",
+  "TotalRepositories": 1,
+  "SuccessfulRepositories": 1,
+  "FailedRepositories": 0,
+  "TotalCommits": 2,
+  "TotalPRs": 1,
+  "Results": [
+    {
+      "RepositoryName": "octocat/Hello-World",
+      "OldCommit": "553c2077f0edc3d5dc5d17262f6aa498e69d6f8e",
+      "NewCommit": "7fd1a60b01f91b314f59955a4e4d4e80d8edf11d",
+      "Commits": [
+        {
+          "Sha": "762941318ee16e59dabbacb1b4049eec22f0d303",
+          "Message": "New line at end of file. --Signed off by Spaceghost",
+          "Author": "Johnneylee Jack Rollins",
+          "Date": "2011-09-14T04:42:41",
+          "AssociatedPRs": [
+            {
+              "Number": 6,
+              "Title": "New line at end of file.",
+              "Url": "https://github.com/octocat/Hello-World/pull/6",
+              "Author": "Spaceghost",
+              "CreatedAt": "2011-09-14T04:43:08",
+              "MergedAt": "2012-03-06T23:06:50",
+              "MergeCommitSha": "ca63dc8d9a40887bda7b670c5ce947b84e600de7"
+            }
+          ]
+        },
+        {
+          "Sha": "7fd1a60b01f91b314f59955a4e4d4e80d8edf11d",
+          "Message": "Merge pull request #6 from Spaceghost/patch-1\n\nNew line at end of file.",
+          "Author": "The Octocat",
+          "Date": "2012-03-06T23:06:50",
+          "AssociatedPRs": []
+        }
+      ],
+      "PullRequests": [
+        {
+          "Number": 6,
+          "Title": "New line at end of file.",
+          "Url": "https://github.com/octocat/Hello-World/pull/6",
+          "Author": "Spaceghost",
+          "CreatedAt": "2011-09-14T04:43:08",
+          "MergedAt": "2012-03-06T23:06:50",
+          "MergeCommitSha": "ca63dc8d9a40887bda7b670c5ce947b84e600de7"
+        }
+      ],
+      "Success": true,
+      "ErrorMessage": null
+    }
+  ]
+}

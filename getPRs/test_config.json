@@ -1,0 +1,10 @@
+{
+  "TestRepos": [
+    {
+      "RepositoryName": "dotnet/sdk",
+      "OldCommit": "4ac9c902302584430522c70c242a1f270715b36d",
+      "NewCommit": "b18496abfd61ce1fd0ab0e745e8f6a65d84b7d40",
+      "UseGitHub": true
+    }
+  ]
+}

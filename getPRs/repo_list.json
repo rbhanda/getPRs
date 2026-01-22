@@ -1,0 +1,86 @@
+{
+    "Repos": [
+        {
+            "RepositoryName": "dotnet/installer",
+            "GitHubRepoUrl": "https://github.com/dotnet/installer",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-installer"
+        },
+        {
+            "RepositoryName":"dotnet/windowsdesktop",
+            "GitHubRepoUrl":"https://github.com/dotnet/windowsdesktop",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-windowsdesktop"
+        },
+        {
+            "RepositoryName":"dotnet/runtime",
+            "GitHubRepoUrl":"https://github.com/dotnet/runtime",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-runtime"
+        },
+        {
+            "RepositoryName": "dotnet/aspnetcore",
+            "GitHubRepoUrl": "https://github.com/dotnet/aspnetcore",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-aspnetcore"
+        },
+        {
+            "RepositoryName": "dotnet/efcore",
+            "GitHubRepoUrl": "https://github.com/dotnet/efcore",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-efcore"
+        },
+        {
+            "RepositoryName": "dotnet/templating",
+            "GitHubRepoUrl": "https://github.com/dotnet/templating",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-templating"
+        },
+        {
+            "RepositoryName": "dotnet/sdk",
+            "GitHubRepoUrl": "https://github.com/dotnet/sdk",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-sdk"
+        },
+        {
+            "RepositoryName": "dotnet/winforms",
+            "GitHubRepoUrl": "https://github.com/dotnet/winforms",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-winforms"
+        },
+        {
+            "RepositoryName": "dotnet/wpf",
+            "GitHubRepoUrl": "https://github.com/dotnet/wpf",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-wpf"
+        },
+        {
+            "RepositoryName": "dotnet/wcf",
+            "GitHubRepoUrl": "https://github.com/dotnet/wcf",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-wcf"
+        },
+        {
+            "RepositoryName": "dotnet/fsharp",
+            "GitHubRepoUrl": "https://github.com/dotnet/fsharp",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-fsharp"
+        },
+        {
+            "RepositoryName": "dotnet/vstest",
+            "GitHubRepoUrl": "https://github.com/dotnet/vstest",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-vstest"
+
+        },
+        {
+            "RepositoryName": "dotnet/linker",
+            "GitHubRepoUrl": "https://github.com/dotnet/linker",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-linker"
+        },
+        {
+            "RepositoryName": "dotnet/blazor",
+            "GitHubRepoUrl": "https://github.com/dotnet/blazor",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-blazor"
+
+        },
+        {
+            "RepositoryName": "dotnet/msbuild",
+            "GitHubRepoUrl": "https://github.com/microsoft/msbuild",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-msbuild"
+        },
+        {
+            "RepositoryName": "dotnet/roslyn",
+            "GitHubRepoUrl": "https://github.com/dotnet/roslyn",
+            "AzDoRepoUrl": "https://dev.azure.com/dnceng/internal/_git/dotnet-roslyn"
+        }
+    ]
+}
